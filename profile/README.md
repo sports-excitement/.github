@@ -19,12 +19,6 @@ Sports Excitement provides tools for athletes across the US: coaching connection
 2. Connect with athletes and coaches.
 3. Explore gear and join games.
 
-## Testimonials
-
-- Emily: Found perfect yoga teacher easily.
-- James: Expanded football coaching roster.
-- Ana: Matched ideal training coach.
-
 ## Contact
 
 [![Website](https://img.shields.io/badge/Website-sportsexcitement.com-blue)](https://sportsexcitement.com/)
